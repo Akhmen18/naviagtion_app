@@ -35,6 +35,9 @@ class _HomePageState extends State<HomePage> {
           ],
         ),
       ),
+      body: Center(
+        child: Text('Testy App'),
+      ),
     );
   }
 }
